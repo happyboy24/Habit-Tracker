@@ -111,13 +111,13 @@ Make sure you have Node.js (v18 or later) installed.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iibrahimx/hng-stage-3-habit-tracker-pwa.git
+https://github.com/happyboy24/Habit-Tracker.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd hng-stage-3-habit-tracker-pwa
+cd habit-tracker
 ```
 
 3. Install dependencies:
